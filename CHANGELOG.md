@@ -4,7 +4,7 @@
 
 ### Changed
 - Upgrade wireless devices to 6.0.21.13673
--- > [**Site38636**] [**Site3978**] [**Site7868**] [**Site8794**] 
+  - [**Site38636**] [**Site3978**] [**Site7868**] [**Site8794**] 
 
 ### Removed
 - N/A
